@@ -1,0 +1,24 @@
+{
+  "name": "base64",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osam5683/Base64.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/osam5683/Base64/issues"
+  },
+  "homepage": "https://github.com/osam5683/Base64#readme",
+  "dependencies": {
+     
+    "readline-sync": "^1.4.10"
+  }
+}
